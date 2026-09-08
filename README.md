@@ -236,3 +236,6 @@ This repository serves as the official landing page for Nokia Software Recovery 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Nokia Software Recovery Tool today!**
+
+---
+**Last updated:** 2026-09-08 12:02:57 UTC
